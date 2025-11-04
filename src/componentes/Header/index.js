@@ -1,4 +1,4 @@
-const imgLogo = require('./NovaZelandia.png');
+import imgLogo from './logo.png';
 
 function Header(){
 

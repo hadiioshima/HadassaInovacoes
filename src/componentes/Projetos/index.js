@@ -1,4 +1,4 @@
-function ProjetosHome() {
+function Projetos() {
     return(
         <>
         Listagem de todos os projetos  

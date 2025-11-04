@@ -1,4 +1,4 @@
-function ProjetosHome() {
+function DetalhesServico() {
     return(
         <>
         Listagem de todos os projetos  
@@ -6,4 +6,4 @@ function ProjetosHome() {
     )
 }
 
-export default Projetos
+export default DetalhesServico
